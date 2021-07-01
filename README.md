@@ -1,2 +1,2 @@
-# clone-da-pagina-do-instagram
-Aprendendo html e css
+# Clone da pagina do instagram 
+**Aprendendo Html e Css**
